@@ -90,3 +90,7 @@ naukri_jobs_last_24_hours.csv
 > This project is created strictly for educational purposes.
 > 
 > It accesses only publicly available information and does not bypass authentication or security mechanisms of any platform.
+
+
+with regards,
+@alsopranab
